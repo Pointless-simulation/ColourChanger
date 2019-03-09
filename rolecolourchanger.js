@@ -1,4 +1,4 @@
-﻿//META{"name":"Role colour changer","website":"https://github.com/Pointless-simulation/BetterDiscordPlugins/Plugins/colourchanger","source":"https://github.com/Pointless-simulation/BetterDiscordPlugins/Plugins/colourchanger/rolecolourchanger.js"}*//
+﻿//META{"name":"Role colour changer","website":"https://github.com/Pointless-simulation/ColourChanger","source":"https://github.com/Pointless-simulation/ColourChanger/blob/master/rolecolourchanger.js"}*//
 
 
 class NoDeleteMessages {
